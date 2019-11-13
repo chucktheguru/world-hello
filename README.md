@@ -1,2 +1,2 @@
 # world-hello
-A beginners guild to Lazy Load Images
+A beginners guide to Lazy Load Images
